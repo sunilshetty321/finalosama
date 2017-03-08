@@ -1,0 +1,1099 @@
+1. Carefully read the question and answer accordingly.What services are included in EX1 plan  
+  
+Lync Online  
+  
+Skype 
+  
+Exchange online ------------- 
+  
+None of the listed options  
+ 
+2.Carefully read the question and answer accordingly.Which of the following options are referred as flavors of SharePoint  
+  
+On Premise  Online(O365)  
+  
+Enterprise  Foundation  
+  
+All of the listed options ------------------- 
+  
+None of the listed options 
+ 
+ 
+3.Carefully read the question and answer accordingly.What is template id to be used while creating user custom list  
+  
+100------- 
+  
+&gt;=1000  
+  
+&gt;=10000  
+  
+None of the listed options  
+ 
+4. Carefully read the question and answer accordingly.Easiest way to attach an approval workflow to multiple lists? 
+  
+Using Content types---------  
+  
+Manually attach to multiple lists  
+  
+Create custom approval workflow using Visual Studio  
+  
+Create a new list definition  
+ 
+5. Carefully read the question and answer accordingly.There can more than one app catalog site for a farm 
+  
+TRUE ----------------- 
+  
+FALSE 
+ 
+6. Carefully read the question and answer accordingly.What are some of new changes in SharePoint 2013? 
+  
+Minimal download strategy  
+  
+Claims Based authentication  
+  
+option A &B------------ 
+  
+improved Meetings workspace  
+ 
+7.Carefully read the question and answer accordingly.What is the minimum number of site collection needed by the web application? 
+  
+0  
+  
+3 
+  
+4  
+  
+1 ---------------------------------------------- 
+ 
+ 
+8. Carefully read the question and answer accordingly.Which Webpart will be used for indexed content.  
+  
+A) Content Editor  
+  
+B) Content Query  
+  
+C) Content by Search -------------- 
+  
+D)Both B and C 
+ 
+9. Carefully read the question and answer accordingly.What is the base type of generic list 
+  
+0------------- 
+  
+1  
+  
+2  
+  
+3  
+ 
+ 
+10. Carefully read the question and answer accordingly.Access a specific site under site collection in Sharepoint using CSOM 
+  
+SPWeb  
+  
+SPSite   
+  
+SPWebApplication  
+  
+Web--------------- 
+ 
+11. Carefully read the question and answer accordingly.Challenges in Workflow of SharePoint 2010 are  
+  
+A) Designed for OnPremise and Cloud Hosted  
+  
+B) Executed in the context of SharePoint as super user ---------------- 
+  
+Both A and B  
+  
+None of the listed options  
+ 
+12. Carefully read the question and answer accordingly.Design Manager is available for which type of site 
+  
+team site  
+  
+blank site  
+  
+publishing site------------- 
+  
+collaboration site  
+ 
+ 
+13. Carefully read the question and answer accordingly.User Profile properties can be accessed with  
+  
+SSOM  
+  
+CSOM  
+  
+JSOM  
+  
+All of the listed options--------------  
+ 
+14. Carefully read the question and answer accordingly.Which service does Angular use internally to process a page and handle directives on the page? 
+  
+$compile -------------- 
+  
+$locale  
+  
+$http  
+  
+$filter  
+ 
+ 
+15. Carefully read the question and answer accordingly.What are some of the deprecated features in SharePoint 2013?  
+  
+Sandboxed Solutions  
+  
+Document and Meeting Workspaces  
+  
+Chart Web Part  
+  
+All of the listed options ------------ 
+ 
+ 
+16. Carefully read the question and answer accordingly.app prefix can be configured for a specific web application 
+  
+TRUE -------------------------------------------------------- 
+  
+FALSE  
+ 
+ 
+17. Carefully read the question and answer accordingly.Method used for creating any child controls 
+  
+Render  
+  
+OnPrerender  
+  
+CreateChildControls ------------------------- 
+  
+OnInit  
+ 
+18. Carefully read the question and answer accordingly.A site template used for hostimg personal sites? 
+  
+Blog Site  
+  
+Community Site  
+  
+Enterprise Wiki  
+  
+My Site Host------------  
+ 
+ 
+19. Carefully read the question and answer accordingly.What is the SharePoint Online Identity Model? 
+  
+Windows Based Claims Authentication 
+  
+Forms Based Claims Authentication  
+  
+SAML Passive Sign In based Claims Authentication ------------------------- 
+  
+SAML Active Sign In based Claims Authentication  
+ 
+ 
+20. Carefully read the question and answer accordingly.Workflow stages has  
+  
+Entry Point & Exit Point  
+  
+Entry Gate & Exit Gate  
+  
+Exit Point & Gate  
+  
+Entry Point & Gate ---------------------------------------- 
+ 
+21. Carefully read the question and answer accordingly.Consider a scenario, where the end user does not have access to a SQL Database table. What type of access would be available to the user if published as External Lists [via Secure Store Service] 
+  
+Read Only -------------------------------- 
+  
+Read/Write  
+  
+All Operations  
+  
+None  
+ 
+22. Carefully read the question and answer accordingly.What is the disadvantage of Knockout over Angular?  
+  
+Testability not considered  
+  
+Routing not supported  
+  
+Loosely coupled binding  
+  
+All of the listed options --------------------------- 
+ 
+23. Carefully read the question and answer accordingly.Method which adds control to the page in web part life cycle 
+  
+OnInit  
+  
+OnLoad ---------------------------- 
+  
+CreateChildControls  
+  
+OnPreRender  
+ 
+24. Carefully read the question and answer accordingly.Advantages of cloud computing over on prem computing  
+  
+No hardware ------- 
+  
+No user license  
+  
+Pay Upfront  
+  
+All of the listed options  
+ 
+ 
+25. Carefully read the question and answer accordingly.Information about an item is called as  
+  
+Metadata ------------------ 
+  
+Site Column  
+  
+content type  
+  
+None of the listed options  
+ 
+ 
+26. Carefully read the question and answer accordingly.In provider hosted app The "App Web Project" can only be hosted on Microsoft Azure. 
+  
+TRUE  
+  
+FALSE ---------------------- 
+  
+Can't Say  
+  
+None of the Above  
+ 
+ 
+27. Carefully read the question and answer accordingly.The list item values can be saved in 
+  
+List template elements file  
+  
+List instance elements file ---------------------------- 
+  
+List Schema file  
+  
+Any  
+ 
+28. Carefully read the question and answer accordingly.Each list Column is associated with  
+  
+data type  
+  
+List  
+  
+Content type  
+  
+All of the listed options -------------------------- 
+ 
+ 
+29. Carefully read the question and answer accordingly.Which method would you use if you wanted to update an item in a list without creating a new version of that item or without modifying the 'Modified' and 'Modified By' field values 
+  
+OverWrite()  
+  
+UpdateWithoutVersion()  
+  
+Update()  
+  
+SystemUpdate() ------------------------------------- 
+ 
+30. Carefully read the question and answer accordingly.In a CAML Query what token can you use if you want to query against a person or group field with value as your user account 
+  
+[Self]  
+  
+[CurrentUser]  
+  
+[Me] ------------------------------- 
+  
+[Own]  
+ 
+ 
+31. Carefully read the question and answer accordingly.How do execute any code on Activation\Deactivation of a Feature? 
+  
+Using event receivers ------------------------------ 
+  
+Using feature  
+  
+Using Feature Receivers  
+  
+Using event handler  
+ 
+32. Carefully read the question and answer accordingly.managed navigation can be implemented using 
+  
+term set ------------------------- 
+  
+features  
+  
+custom page  
+  
+structured navigation  
+ 
+ 
+33. Carefully read the question and answer accordingly.Auto hosted app are deprecated by Microsoft.  
+  
+TRUE ------------------------------ 
+  
+FALSE  
+  
+Can't Say  
+  
+None of the listed options  
+ 
+ 
+34. Carefully read the question and answer accordingly.customized pages can be found in the following location 
+  
+content database ---------------------------------------------- 
+  
+config database  
+  
+system database  
+  
+file system  
+ 
+35. Carefully read the question and answer accordingly.What are the different type of App permission request rights in sharepoint 2013? 
+  
+View Only 
+Write 
+Limited Access 
+FullControl  
+  
+Read 
+Contribute 
+Design 
+FullControl  
+  
+Read 
+Write------------------------------------------------- 
+Manage 
+FullControl  
+  
+Read 
+Edit 
+Design 
+FullControl  
+ 
+ 
+36. Carefully read the question and answer accordingly.What is S2S Trust used for? 
+  
+Authentication of users with SharePoint  
+  
+Authentication of Client App with SharePoint server ----------------------------------? 
+  
+Authentication of users with both Client App and SharePoint server -? 
+  
+Create unique ID for Client App  
+ 
+ 
+37. Carefully read the question and answer accordingly.You must select an app model to deploy apps to an Office 365 small business tenant.The business logic apps is located in a remote web application. What should you do? 
+  
+create share point hosted app.Implement  the business logic in java script  
+  
+develop provider hosted apps and integrate data sources with business logic by using Odata.  
+  
+Deploy the business logic to the host web by using Full trust sharepoint solution ---------------------------- 
+  
+Develop Odata service provider infrastructure and publish provider to the _layouts directory.  
+ 
+ 
+38. Carefully read the question and answer accordingly.Using SharePoint Designer 2013, which of the following ways of starting a workflow is not available 
+  
+manual  
+  
+item is added  
+  
+item is updated  
+  
+item is deleted ------------------ 
+ 
+ 
+39. Carefully read the question and answer accordingly.Which of the following is not object oriented programming  
+  
+Managed CSOM  
+  
+Javascript OM  
+  
+Rest API -------------------- 
+  
+None of the listed options  
+ 
+ 
+40. Carefully read the question and answer accordingly.What is the minimum priviliges required to modify the Global & Current navigation? 
+  
+Site Owner  
+  
+Designer  
+  
+Site owners & Designers ------------------------- 
+  
+Contribute  
+ 
+41. Carefully read the question and answer accordingly.Which of the following can be created using SharePoint Designer 2013 
+  
+Site Page  
+  
+Application Page  
+  
+Webpart Page -------------------- 
+  
+Wiki Page  
+ 
+42. Carefully read the question and answer accordingly.which of the following data types  can not be used in calcualted column 
+  
+Person Or Group  
+  
+Look Up  
+  
+Multi Line Of Text  
+  
+All of the above ------------------- 
+ 
+ 
+43. Carefully read the question and answer accordingly.Which error could the below code snippet run into. Assuming that we have a valid SPList object instance available through "someList" 
+SPListItemCollection listItemCollection =  someList.Items; 
+foreach (SPListItem item in listItemCollection) 
+     { 
+       item.Delete(); 
+     } 
+  
+Item deletion aborted as another process may be using it!  
+  
+No Error. The code would run fine  
+  
+Collection was modified; enumeration operation may not execute. ---------------------------------- 
+  
+Item could not be found. It may have been already deleted.  
+ 
+44. Carefully read the question and answer accordingly.Which of the following feature is not available in SharePoint 2013? 
+  
+Export to Excel  
+  
+Export to Word ----------------? 
+  
+Open in Word  
+  
+Connect to Outlook  
+ 
+ 
+45.Carefully read the question and answer accordingly.Which one of these cannot be configured as a data source in an External Content Type 
+  
+SQL Server  
+  
+WCF  
+  
+.NET Type  
+  
+WebAPI---------------------------------  
+ 
+46.??Carefully read the question and answer accordingly.The Permission for a provider hosted add in can be modified using the following ways  
+  
+A) AppManifest.xml  
+  
+B) _layouts/appinv.aspx  
+  
+Both A B-----------------------------  
+  
+None of the listed options  
+
+ 
+ 
+47. Carefully read the question and answer accordingly.What is the new workflow execution host 
+  
+Microsoft Azure ---------------------------- 
+  
+Workflow Engine  
+  
+windows workflow foundation v 3.5  
+  
+windows workflow foundation v 4  
+ 
+ 
+48. Carefully read the question and answer accordingly.Remote Endpoints are used to read data from external source.  
+  
+FALSE  
+  
+TRUE ----------------------------------------------------------- 
+  
+There is nothing called &quot;Remote Endpoints&quot; in App.  
+  
+None of the listed options  
+ 
+ 
+49. Carefully read the question and answer accordingly.which of the following is the template ID for Custom List 
+  
+100----------------------------  
+  
+101  
+  
+104  
+  
+102  
+ 
+ 
+50. Carefully read the question and answer accordingly.Complete the sentence: In Knockout, observables automatically detect dependencies between ……..  
+  
+View and Model  
+  
+Model and View Model  
+  
+View and View Model ----------------------------- 
+  
+None of the listed options  
+ 
+ 
+ 
+51.Carefully read the question and answer accordingly.List threshold Value limit 
+  
+5000 -------------------------- 
+  
+2000  
+  
+10000  
+  
+100  
+ 
+ 
+ 
+52.Carefully read the question and answer accordingly.How would you remove a webapart from the WebPart gallery  
+  
+Webpart retraction  
+  
+Feature deactivating  
+  
+Removing webpart from page  
+  
+All of the listed options ------------------------------- 
+ 
+ 
+ 
+53.Carefully read the question and answer accordingly.What filter can be applied in list views to filter data modified by current logged in user? 
+  
+Modified By is equal to [Me] --------------------------------- 
+  
+Created By is equal to [Me]  
+  
+Modified By is equal to [CurrentUser]  
+  
+Created By is equal to [CurrentUser]  
+ 
+ 
+
+ 
+54.Carefully read the question and answer accordingly.Standard webpart can be deployed using  
+  
+Farm Solution  
+  
+Sandbox solution  
+  
+Both ---------------------- 
+  
+None of the listed options  
+ 
+ 
+55.Carefully read the question and answer accordingly.Device Channel option is used to 
+  
+specify design for various devices ---------------------- 
+  
+specify compatibility of various devices  
+  
+specify master page info for various devices  
+  
+specify supported devices  
+ 
+ 
+ 
+56.Carefully read the question and answer accordingly.Multiple web definitions can be configured using 
+  
+Templates tag  
+  
+Template tag  
+  
+Module tag  
+  
+Configuration tag ---------------------------- 
+ 
+ 
+ 
+57.Carefully read the question and answer accordingly.What are the different types of apps that are available 
+  
+SharePoint Hosted and Provider hosted   
+  
+Sharepoint hosted, Autohosted, Provider hosted apps------------------- 
+  
+None  
+ 
+ 
+ 
+58.Carefully read the question and answer accordingly.What is Content type 
+  
+Reusable collection of Columns ------------------------------------ 
+  
+Reusable collection of Lists  
+  
+Reusable collection of libraries  
+  
+Reusable collection of Sites  
+ 
+ 
+
+ 
+59.Carefully read the question and answer accordingly.What is the name of the worker process used for debugging webpart 
+  
+aspnet_wp.exe  
+  
+w3wp.exe =-------------------------- 
+  
+wpw3.exe  
+  
+aspnet_w3wp.exe  
+ 
+ 
+ 
+60.Carefully read the question and answer accordingly.which option under "look and feel" is used to apply pre-defined styles to a site 
+  
+image rendition  
+  
+design manager  
+  
+change the look --------------------------- 
+  
+device channel  
+ 
+ 
+ 
+61.Carefully read the question and answer accordingly.What are Add-ins in SharePoint 2013?  
+  
+Business logic in a SharePoint Add-in can access SharePoint data through one of the several client APIs  
+  
+self-contained pieces of functionality  
+  
+Add-ins don&#39;t have custom code that runs on the SharePoint servers  
+  
+All of the listed options -------------------------- 
+ 
+ 
+ 
+ 
+62.Carefully read the question and answer accordingly.Which of the following is true for Custom Actions in sharepoint designer 2013 
+  
+Consume & Not Create -------------------------------------- 
+  
+Consume & Create  
+  
+Publish & Create  
+  
+Publish & Not Create  
+ 
+ 
+ 
+63.Carefully read the question and answer accordingly.Sandbox solution is a full trust solution 
+  
+TRUE  
+  
+FALSE -------------------------------------------------- 
+
+ 
+ 
+ 
+64.Carefully read the question and answer accordingly.What is External System Throttling Limit 
+  
+5000  
+  
+2000 ---------------------------------- 
+  
+50000  
+  
+20000  
+ 
+ 
+ 
+65.Carefully read the question and answer accordingly.What is the advantage of Knockout over Angular ?  
+  
+Observable Pattern  
+  
+More Control to developers  
+  
+Lightweight  
+  
+All of the listed options ------------------------------------- 
+ 
+ 
+ 
+66.Carefully read the question and answer accordingly.You need to deploy the package. Which file you would select 
+  
+a file ending in .publish  
+  
+a file ending in .wsp ------------------------------------ 
+  
+a file ending in .dll  
+  
+a file ending in .app  
+ 
+ 
+ 
+67.Carefully read the question and answer accordingly.Custom master page needs to be uploaded under which category 
+  
+look and feel->master page  
+  
+site collection feature->sharepoint publishing infrastructure  
+  
+site feature->sharepoint server publishing  
+  
+web designer gallery->master page and page layout ------------------------------------- 
+ 
+ 
+68.Carefully read the question and answer accordingly.What is a Content type? 
+  
+It is a reusable column definition or template that user can assign to multiple lists across multiple SharePoint sites ----------------------- 
+  
+It dictates the overall look and feel of a web page.  
+  
+It is a set of columns that are grouped together to serve a specific purpose  
+  
+It define the common layout and interface for SharePoint pages  
+ 
+ 
+69.Carefully read the question and answer accordingly.Can event receivers be attached to external lists? 
+  
+Yes ---------------------------------------------- 
+  
+No  
+ 
+ 
+ 
+70.Carefully read the question and answer accordingly.site pages are available in 
+  
+site assets  
+  
+page library ----------------------------------------- 
+  
+database  
+  
+template folder  
+ 
+ 
+ 
+71.Carefully read the question and answer accordingly.Which property do you use on a SPFile object to check its Check-Out status 
+  
+CheckOutType --------------------------------- 
+  
+CheckInStatus  
+  
+CheckOutStatus  
+  
+IsCheckOut  
+ 
+ 
+ 
+ 
+72.Carefully read the question and answer accordingly.You receive an error when you deploy the app. You need to resolve the error. What should you do? 
+  
+Deploy the app to http://contoso-public.sharepoint.com ---------------------------------- 
+  
+enable site loading of apps in the visual studio project properties  
+  
+Deploy the app to https://contoso-my.sharepoint.com  
+  
+Deploy the app to https://contoso.sharepoint.com/tasks  
+ 
+ 
+ 
+ 
+73.Carefully read the question and answer accordingly.What do you need to do to support older versions of IE with Angular?  
+  
+A) Polyfill JSON.stringify  
+  
+B) doesn&rsquo;t support old version  
+  
+C) avoid custom tag name directives  
+  
+A and C ---------------------------------------- 
+ 
+ 
+ 
+74.Carefully read the question and answer accordingly.To overcome error “The security validation for this page is invalid. Click Back in your Web browser, refresh the page, and try your operation again” when saving an item "item", which 2 techniques can be used 
+  
+SPWeb web = item.Web; 
+web.AllowUnsafeUpdates =true;-------------------------------------------------------------- 
+OR 
+SPUtility.ValidateFormDigest()  
+  
+SPWeb web = item.Web; 
+SPUtility.FormDigest.Validate() 
+OR 
+AllowUnsafeUpdates = True  
+  
+SPWeb web = item.Web; 
+AllowUnsafeUpdates = false; 
+OR 
+SPUtility.ValidateFormDigest()  
+  
+item.AllowUnsafeUpdates = true; 
+OR 
+SPUtility.ValidateFormDigest()  
+ 
+ 
+ 
+ 
+75.Carefully read the question and answer accordingly.What is the best practice to push custom code logic in declaritive workflows?  
+  
+use Web services ---------------------------- 
+  
+use Interop bridge  
+  
+use visual studio  
+  
+All of the listed options  
+ 
+ 
+76.Carefully read the question and answer accordingly.Can we use publish the Contenttypes from One sharepoint server  farm to Another  
+  
+Yes ----------------------------------------- 
+  
+No  
+ 
+ 
+77.Carefully read the question and answer accordingly.C# code can be written in Provider hosted APP.  
+  
+TRUE --------------------------------------------- 
+  
+FALSE  
+  
+Can't Say  
+  
+None of the listed options  
+ 
+ 
+ 
+78.Carefully read the question and answer accordingly.Azure is the only place to host a provider hosted app 
+  
+TRUE  
+  
+FALSE ------------------------ 
+ 
+ 
+79.Carefully read the question and answer accordingly.What are the ngClass directive has two companion directives? 
+A) ngClassEven 
+B) None 
+C) ngClassOdd 
+Both A and C----------------------------------- 
+ 
+80.Carefully read the question and answer accordingly.How do you navigate to a new view from code? 
+window.location.url ='url'---------------------------------------- 
+form.url.view ='#viewname' 
+$location.url(‘newUrl’); 
+$route.reload('newUrl')  
+ 
+ 
+81.Carefully read the question and answer accordingly.SharePoint 2013 workflow are Packaged as 
+.WSP & .CAB  
+ 
+.APP & .CAB 
+Only .WSP 
+.WSP & .APP --------------------------------------------- 
+ 
+82.Carefully read the question and answer accordingly.What permission level should we use to grant create 
+and edit permissions but not delete? 
+Contribute 
+Limited Access 
+Full Control 
+Custom permission level-------------------------- 
+ 
+83.Carefully read the question and answer accordingly.Server object model 
+Create a custom Windows PowerShell command 
+Create a timer job 
+Create an extension of Central Administration 
+All of the listed options =-------------------------- 
+ 
+84.Carefully read the question and answer accordingly.master pages are available in 
+database 
+master page gallery------------------------------ 
+design manager 
+device channel  
+
+ 
+85.Carefully read the question and answer accordingly.sharepoint feature does not have the following scope 
+web application 
+farm 
+site collection 
+page -------------------------------------------------- 
+ 
+86.Carefully read the question and answer accordingly.Is it possible to have REST calls in SharePoint hosted 
+app? 
+No 
+Yes --------------- 
+ 
+87.Carefully read the question and answer accordingly.In MVVM, what is the role of ViewModel 
+Handles behaviour 
+communicates between View and Model  
+ 
+doesn&rsquo;t hold data 
+All of the listed options------------------------------------  
+ 
+88.Carefully read the question and answer accordingly.Method used for initialization of the control in webpart 
+OnInit ----------------------------- 
+CreateChildControls 
+OnPrerender 
+Render 
+ 
+ 
+89.Carefully read the question and answer accordingly.List templates are stored in  
+
+ 
+Content database-------------------------------------------------- 
+Configuration database 
+Physical Server 
+All of the listed options  
+ 
+ 
+90.Carefully read the question and answer accordingly.Which site template is used for debugging 
+Publishing Site 
+Team Site------------------------------------------------ 
+Collaboration 
+None of the listed options 
+ 
+91.Carefully read the question and answer accordingly.How to programmatically find the user name of 
+the account by which a file in a document library is checked out 
+myFile.CheckOutByUser 
+myFile.CheckedOutByUser.LoginName------------------------ 
+myFile.CheckedOutToUser.LoginName 
+myFile.Item["CheckedOutUser"]  
+ 
+92.Carefully read the question and answer accordingly.In Knockout, Which of the below is has the correct syntax for Data Binding  
+  
+A) data-bind=&quot;text:name&quot;  
+  
+B) &lt;--ko --&gt;&lt;--/ko--&gt;  
+  
+Both A and B ------------------------------------ 
+  
+None of the listed options  
+ 
+ 
+93.Carefully read the question and answer accordingly.Appweb URL reffers to the sharepoint URL where the app is hosted 
+  
+TRUE -------------------------------------------------- 
+  
+FALSE  
+ 
+ 
+94.Carefully read the question and answer accordingly.Server object model  
+  
+Create a custom Windows PowerShell command  
+  
+Create a timer job  
+  
+Create an extension of Central Administration  
+  
+All of the listed options---------------------------- 
+  
+ 
+95.Carefully read the question and answer accordingly.New SharePoint 2013 workflow platform is available  
+  
+automatically after installing sharepoint  
+  
+after downloand and install Workflow manager  
+  
+after download and install workflow manager and configure to communicate to SharePoint farm ---------------------------- 
+  
+after download and install workflow manager and configure to communicate to windows Azure  
+ 
+ 
+96.Carefully read the question and answer accordingly.What is the easiest way create a new lists using an existing list including its data? 
+  
+export/import excel  
+  
+Custom List Definition  
+  
+List Template --------------------- 
+  
+List Views  
+ 
+ 
+97.Carefully read the question and answer accordingly.In MVVM, what is the role of ViewModel  
+  
+Handles behaviour  
+  
+communicates between View and Model  
+  
+doesn&rsquo;t hold data  
+  
+All of the listed options  ------------------------------------ 
+ 
+ 
+98.Carefully read the question and answer accordingly.If a Sharepoint hosted app is installed on 50 sites then how many app webs will be created? 
+  
+1  
+  
+50 ---------------------------------------- 
+  
+100  
+  
+0  
+ 
+99.Carefully read the question and answer accordingly.ghosted pages can be found in 
+  
+15 hive  
+  
+template folder ---------------------------- 
+  
+layout folder  
+  
+database  
+ 
+100.Carefully read the question and answer accordingly.View in MVVM pattern doesn’t hold data 
+  
+Yes ---------------------------------- 
+ - 
+May be  
+  
+No  
+  
+Can't Say  
+ 
+101.Carefully read the question and answer accordingly.There is a list item object called "listItem". How do you set value for a column "Price" as 50.5 when updating the item 
+  
+listItem("Price") = 50.5;  
+  
+listItem.Price = 50.5;  
+  
+listItem["Price"] = 50.5;----------------------------  
+  
+listItem[Price] = 50.5;  
+102..Carefully read the question and answer accordingly.What is the central component in an angular application? 
+  
+View  
+  
+Module  
+  
+Service  
+  
+Controller -------------------------------- 
+ 
+103..Carefully read the question and answer accordingly.How would you refresh a view without refreshing the entire app? 
+  
+window.refresh()  
+  
+form.refresh()  
+  
+$route.reload()-----  
+  
+$form.reload()  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
